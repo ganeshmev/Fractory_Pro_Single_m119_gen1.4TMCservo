@@ -108,8 +108,8 @@
   #define INVERT_Y_DIR    false//true
   #define INVERT_Z_DIR    false//true
 
-  #define INVERT_E0_DIR   true//false
-  #define INVERT_E1_DIR   false//true
+  #define INVERT_E0_DIR   false//true//false
+  #define INVERT_E1_DIR   true//false//true
 #else
   #define INVERT_X_DIR    false
   #define INVERT_Y_DIR    false
